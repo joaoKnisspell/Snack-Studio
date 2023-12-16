@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Logo do projeto](https://i.imgur.com/Efk1o2O.jpg)
+# Snack Studio
 
-## Getting Started
+O Snack Studio é uma aplicação na qual os usuários podem visualizar informações sobre filmes populares, futuros lançamentos e os filmes mais bem avaliados. A aplicação possui páginas dinâmicas com informações sobre cada filme.
 
-First, run the development server:
+## 🚀 Introdução
+A aplicação <strong>Snack Studio</strong> foi cuidadosamente desenvolvida para colocar em prática as minhas habilidades em tecnologias front-end. Todo o conteúdo relacionado aos filmes foi obtido de forma dinâmica através da <strong>TMDB API</strong>.A aplicação foi estruturada com cinco rotas distintas, cada uma dedicada a categorias específicas de filmes: "Nos Cinemas", "Populares", "Mais Bem Avaliados" e "Futuros Lançamentos". Adicionalmente, foi implementada uma rota dinâmica para cada filme, oferecendo um resumo detalhado e um link direto para o trailer correspondente.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## ⚙️ Tecnologias utilizadas
+### Front-End:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Back-End:
+TMDB API - https://developer.themoviedb.org/docs/getting-started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌊 Deploy
+Vercel: https://snack-studio.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ✍🏼 Autor
+### João Gabriel Knisspell Zimmermann
+* Site portfólio: https://portfolio-joaoknisspell.vercel.app/
+* Linkedin: https://www.linkedin.com/in/joaoknisspell/
+* Github: https://github.com/joaoKnisspell
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
