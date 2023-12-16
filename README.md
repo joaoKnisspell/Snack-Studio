@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.imgur.com/Efk1o2O.jpg)
+![Logo do projeto](https://i.imgur.com/zAQ2ynk.png)
 # Snack Studio
 
 O Snack Studio é uma aplicação na qual os usuários podem visualizar informações sobre filmes populares, futuros lançamentos e os filmes mais bem avaliados. A aplicação possui páginas dinâmicas com informações sobre cada filme.
